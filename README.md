@@ -1,1 +1,1 @@
-# CS405_courseproject
+# CS405 Computer Graphics Course Project
